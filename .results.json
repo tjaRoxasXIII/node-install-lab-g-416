@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 1,
+    "passes": 1,
+    "pending": 0,
+    "failures": 0,
+    "start": "2021-02-09T17:07:01.646Z",
+    "end": "2021-02-09T17:07:01.754Z",
+    "duration": 108
+  },
+  "tests": [
+    {
+      "title": "must be 2.14.15 or greater",
+      "fullTitle": "npm version must be 2.14.15 or greater",
+      "duration": 105,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "must be 2.14.15 or greater",
+      "fullTitle": "npm version must be 2.14.15 or greater",
+      "duration": 105,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
